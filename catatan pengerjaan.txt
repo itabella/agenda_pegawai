@@ -1,0 +1,38 @@
+catatan widgets:
+1. menu select
+2. datepicker
+3. dynamic forms
+
+
+OTW:
+1. ruang
+2. detail_agenda_peserta
+
+
+
+
+fix:
+1. unit
+2. tugas
+3. jenisAgenda
+4. sifat agenda
+5. agenda
+6. pegawai
+7. jabatan
+
+
+Belum sama sekali
+1. agenda_peserta
+2. detail_agenda_pegawai
+3. detail_ruang_agenda
+
+
+kurang:
+1. cetak ke pdf
+2. sms gateway
+3. transaksi agenda many to many
+4. peserta many to many
+5. laporan tanggal
+6. laporan ruang
+7. validasi
+8. user interface
